@@ -19,7 +19,7 @@ The common use case is that the external gateway of an app can identify the dest
 
 ### For deployed instances
 
-Pack the project contained in `shopware-get-shop-id` folder and upload the compressed file via admin panel - will be installed and activated automatically.
+Pack the project wrapped in `shopware-get-shop-id` folder and upload the compressed file via admin panel - will be installed and activated automatically.
 
 ### For locale instance
 
