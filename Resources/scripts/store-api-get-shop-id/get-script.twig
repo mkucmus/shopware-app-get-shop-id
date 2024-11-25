@@ -1,0 +1,4 @@
+{% block response %}
+    {% set response = services.response.json({ 'shopId': services.config.get('core.app.shopId').value }) %}
+    {% do hook.setResponse(response) %}
+{% endblock %}
