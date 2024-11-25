@@ -14,3 +14,20 @@ The common use case is that the external gateway of an app can identify the dest
     "shopId": "ZQhTawLc64vVxXya"
 }
 ```
+
+## Installation
+
+### For deployed instances
+
+upload an app via admin panel - will be installed and activated automatically.
+
+### For locale instance
+
+clone the repository into `custom/apps` dir.
+
+run `bin/console app:install get-shop-id --activate`
+
+
+## Development
+
+Follow the [official docs](https://developer.shopware.com/docs/guides/plugins/apps/starter/).
