@@ -19,7 +19,7 @@ The common use case is that the external gateway of an app can identify the dest
 
 ### For deployed instances
 
-upload an app via admin panel - will be installed and activated automatically.
+Download the repository in zip format and upload the compressed file via admin panel - will be installed and activated automatically.
 
 ### For locale instance
 
